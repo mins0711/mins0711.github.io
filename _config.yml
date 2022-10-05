@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "정민찬" #"Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :"무서운 웹사이트"# "I am an **amazing** person."
-  location         :"Republic of korea"# "Somewhere"
+  bio              : "무서운 웹사이트"# "I am an **amazing** person."
+  location         : "Republic of korea"# "Somewhere"
   email            :
   links:
     - label: "Email"
