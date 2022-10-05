@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "정민찬" #"Your Name"
-  avatar           : "/assets/images/아르갈리아.jpg" # path of avatar image, e.g. 
+  avatar           : "/assets/images/아르갈리아.png" # path of avatar image, e.g. 
   bio              : "무서운 웹사이트"# "I am an **amazing** person."
   location         : "Republic of korea"# "Somewhere"
   email            :
