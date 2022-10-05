@@ -19,7 +19,7 @@ locale                   : "ko-kr"
 title                    : "사이드 제목 표시줄"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 이름 # "your name"
+name                     :  # "your name"
 description              : 무서운 웹사이트 # "An amazing website."
 url                      : https://mins0711.github.io #the base hosthome& protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "정민찬" #"Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              :"무서운 웹사이트"# "I am an **amazing** person."
+  location         :"Republic of korea"# "Somewhere"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:mins0711@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/mins0711"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
